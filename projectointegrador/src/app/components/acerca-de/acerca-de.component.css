@@ -3,14 +3,14 @@ img{
     height:10% ;
  margin-right: 1500px;
    }
-/**/
-div{
+
+   div{
     padding: 20px;
     text-align: center ;
     text-align: top;
     background-color:steelblue;  
 }
-#nombre{
+ #nombre{
     font-weight: bolder;
     margin-top: 50%;
     margin-left:  10px;
