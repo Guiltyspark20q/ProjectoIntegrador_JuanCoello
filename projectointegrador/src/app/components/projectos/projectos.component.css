@@ -5,7 +5,10 @@ background-color: steelblue;
 .contenedor{
  width: auto;   
 }
+.parte1,.parte2{
+    text-align: justify;
+    display:inline-block
+}
 img{
-   height: auto;
-   width: min-content;
+box-shadow: 10px 10px 30px #000000; 
 }
