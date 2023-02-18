@@ -1,0 +1,11 @@
+.row{
+padding: 20px;
+background-color: steelblue;          
+}
+.contenedor{
+ width: auto;   
+}
+img{
+   height: auto;
+   width: min-content;
+}
